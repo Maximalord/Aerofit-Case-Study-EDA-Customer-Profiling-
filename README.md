@@ -54,5 +54,5 @@ The goal: help Aerofit optimize product positioning, pricing, and customer targe
 ## 🚀 How to Run
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/aerofit-case-study.git
-   cd aerofit-case-study
+   git clone https://github.com/Maximalord/Aerofit-Case-Study-EDA-Customer-Profiling.git
+   cd Aerofit-Case-Study-EDA-Customer-Profiling
